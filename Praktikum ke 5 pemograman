@@ -1,0 +1,65 @@
+## PROGRAM SEDERHANA YANG DAPAT MENGELOLA DATA NILAI MAHASISWA ##
+
+
+## ALGORIMANYA ##
+
+1.Inisialisasi:
+*Buat kamus kosong mahasiswa untuk menyimpan data mahasiswa.
+2.Loop utama:
+*Ulangi langkah-langkah berikut sampai pengguna memilih opsi "Keluar":
+*Tampilkan menu pilihan (lihat, tambah, ubah, hapus, cari, keluar).
+*Minta pengguna memilih opsi.
+#Jika pilihan "Lihat":
+*Tampilkan data semua mahasiswa dalam bentuk tabel.
+#Jika pilihan "Tambah":
+*Minta input NIM, nama, nilai tugas, UTS, dan UAS.
+*Tambahkan data mahasiswa baru ke kamus mahasiswa.
+#Jika pilihan "Ubah":
+*Minta input NIM yang ingin diubah.
+*Cari data mahasiswa berdasarkan NIM.
+*Jika data ditemukan, minta input data baru dan perbarui data yang ada.
+#Jika pilihan "Hapus":
+*Minta input NIM yang ingin dihapus.
+*Cari data mahasiswa berdasarkan NIM.
+*Jika data ditemukan, hapus data dari kamus mahasiswa.
+#Jika pilihan "Cari":
+*Minta input NIM yang ingin dicari.
+*Cari data mahasiswa berdasarkan NIM.
+*Jika data ditemukan, tampilkan data mahasiswa tersebut.
+#Jika pilihan "Keluar":
+*Akhiri program.
+#Jika pilihan tidak valid:
+*Tampilkan pesan kesalahan.
+
+
+## CODINGANNYA ##
+
+
+## PENJELASAN SEDERHANA ##
+
+Cara kerjanya secara garis besar:
+
+1. Membuat Kamus:
+= Program memulai dengan membuat sebuah kamus (dictionary) kosong bernama mahasiswa. Kamus ini akan digunakan untuk menyimpan data setiap mahasiswa. Kunci kamus adalah NIM mahasiswa, dan nilainya adalah informasi lain seperti nama, nilai tugas, UTS, UAS, dan nilai akhir.
+2. Menu Interaktif:
+# Program terus-menerus menampilkan menu pilihan kepada pengguna:
+= (L)ihat: Menampilkan semua data mahasiswa dalam bentuk tabel yang rapi.
+= (T)ambah: Menambahkan data mahasiswa baru.
+= (U)bah: Mengubah data mahasiswa yang sudah ada.
+= (H)apus: Menghapus data mahasiswa.
+= (C)ari: Mencari data mahasiswa berdasarkan NIM.
+= (K)eluar: Keluar dari program.
+3 Memilih Aksi:
+# Pengguna memilih salah satu opsi dari menu.
+# Program akan menjalankan fungsi yang sesuai dengan pilihan pengguna.
+
+=> Secara singkat, program ini memungkinkan pengguna untuk:
+Melihat daftar seluruh mahasiswa dan nilai mereka.
+Menambahkan data mahasiswa baru.
+Mengubah data mahasiswa yang sudah ada.
+Menghapus data mahasiswa.
+Mencari data mahasiswa berdasarkan NIM.
+
+Dan juga program ini juga menggunakan
+Library prettytable:
+Library ini digunakan untuk membuat tampilan tabel yang lebih rapi dan mudah dibaca saat menampilkan data mahasiswa.
