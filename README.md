@@ -32,7 +32,7 @@ Cara kerjanya secara garis besar:
 1. Membuat Kamus:
 = Program memulai dengan membuat sebuah kamus (dictionary) kosong bernama mahasiswa. Kamus ini akan digunakan untuk menyimpan data setiap mahasiswa. Kunci kamus adalah NIM mahasiswa, dan nilainya adalah informasi lain seperti nama, nilai tugas, UTS, UAS, dan nilai akhir.
 2. Menu Interaktif:
-# Program terus-menerus menampilkan menu pilihan kepada pengguna:
+### Program terus-menerus menampilkan menu pilihan kepada pengguna:
 = (L)ihat: Menampilkan semua data mahasiswa dalam bentuk tabel yang rapi.
 
 = (T)ambah: Menambahkan data mahasiswa baru.
