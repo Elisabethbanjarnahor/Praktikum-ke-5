@@ -3,33 +3,20 @@
 
 ## ALGORIMANYA ##
 
-1.Inisialisasi:
-*Buat kamus kosong mahasiswa untuk menyimpan data mahasiswa.
-2.Loop utama:
-*Ulangi langkah-langkah berikut sampai pengguna memilih opsi "Keluar":
-*Tampilkan menu pilihan (lihat, tambah, ubah, hapus, cari, keluar).
-*Minta pengguna memilih opsi.
-#Jika pilihan "Lihat":
-*Tampilkan data semua mahasiswa dalam bentuk tabel.
-#Jika pilihan "Tambah":
-*Minta input NIM, nama, nilai tugas, UTS, dan UAS.
-*Tambahkan data mahasiswa baru ke kamus mahasiswa.
-#Jika pilihan "Ubah":
-*Minta input NIM yang ingin diubah.
-*Cari data mahasiswa berdasarkan NIM.
-*Jika data ditemukan, minta input data baru dan perbarui data yang ada.
-#Jika pilihan "Hapus":
-*Minta input NIM yang ingin dihapus.
-*Cari data mahasiswa berdasarkan NIM.
-*Jika data ditemukan, hapus data dari kamus mahasiswa.
-#Jika pilihan "Cari":
-*Minta input NIM yang ingin dicari.
-*Cari data mahasiswa berdasarkan NIM.
-*Jika data ditemukan, tampilkan data mahasiswa tersebut.
-#Jika pilihan "Keluar":
-*Akhiri program.
-#Jika pilihan tidak valid:
-*Tampilkan pesan kesalahan.
+ALGORITMA
+    inisialisasi daftar_nilai sebagai kamus kosong
+
+    ULANGI
+        tampilkan_menu()
+        baca pilihan
+        SEBARANG pilihan
+            KASUS 1: // Tampilkan daftar nilai
+                // ... (implementasi seperti di atas)
+            KASUS 2: // Tambah data
+                // ... (implementasi seperti di atas)
+            // ... (kasus untuk opsi lainnya)
+        AKHIR SEBARANG
+    Hingga pilihan = 'keluar'
 
 ## FLOWCHARTNYA ##
 
