@@ -46,8 +46,8 @@ Cara kerjanya secara garis besar:
 = (K)eluar: Keluar dari program.
 
 3 Memilih Aksi:
-# Pengguna memilih salah satu opsi dari menu.
-# Program akan menjalankan fungsi yang sesuai dengan pilihan pengguna.
+### Pengguna memilih salah satu opsi dari menu.
+### Program akan menjalankan fungsi yang sesuai dengan pilihan pengguna.
 
 => Secara singkat, program ini memungkinkan pengguna untuk:
 Melihat daftar seluruh mahasiswa dan nilai mereka.
