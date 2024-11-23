@@ -34,11 +34,17 @@ Cara kerjanya secara garis besar:
 2. Menu Interaktif:
 # Program terus-menerus menampilkan menu pilihan kepada pengguna:
 = (L)ihat: Menampilkan semua data mahasiswa dalam bentuk tabel yang rapi.
+
 = (T)ambah: Menambahkan data mahasiswa baru.
+
 = (U)bah: Mengubah data mahasiswa yang sudah ada.
+
 = (H)apus: Menghapus data mahasiswa.
+
 = (C)ari: Mencari data mahasiswa berdasarkan NIM.
+
 = (K)eluar: Keluar dari program.
+
 3 Memilih Aksi:
 # Pengguna memilih salah satu opsi dari menu.
 # Program akan menjalankan fungsi yang sesuai dengan pilihan pengguna.
