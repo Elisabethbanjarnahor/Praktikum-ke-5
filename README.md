@@ -136,4 +136,21 @@ Library ini digunakan untuk membuat tampilan tabel yang lebih rapi dan mudah dib
 
 
 ## HASIL CODE ##
+Tambahkan Data
+![Screenshot 2024-11-23 202233](https://github.com/user-attachments/assets/e3666578-3c3e-48e8-a1f1-d0f984d208a7)
+
+Ubah Data
+![Screenshot 2024-11-23 202245](https://github.com/user-attachments/assets/3230c852-993f-4978-a55d-e65e434545f2)
+
+Tampilkan Data
+![Screenshot 2024-11-23 202222](https://github.com/user-attachments/assets/d505a2ef-9eb3-436e-891e-7e23a941ca29)
+
+Hapus Data 
+![Screenshot 2024-11-23 202302](https://github.com/user-attachments/assets/727825fd-16f6-45be-9568-b2e5abb7900c)
+
+Cari Data
+![Screenshot 2024-11-23 202312](https://github.com/user-attachments/assets/616eb731-b831-406e-a6b7-e4de940f6e3d)
+
+Keluar
+![Screenshot 2024-11-23 202325](https://github.com/user-attachments/assets/d0026ef2-6f1e-4b24-9c39-e677478502dd)
 
