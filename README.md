@@ -19,6 +19,7 @@ ALGORITMA
     Hingga pilihan = 'keluar'
 
 ## FLOWCHARTNYA ##
+![WhatsApp Image 2024-11-23 at 10 08 50_b6b95a12](https://github.com/user-attachments/assets/1d6aab61-a172-4f9b-8b4e-c904d2092776)
 
 
 ## CODINGANNYA ##
